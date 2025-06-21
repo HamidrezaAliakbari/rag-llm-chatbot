@@ -1,0 +1,7 @@
+
+langchain
+faiss-cpu
+chromadb
+openai
+boto3
+nbformat

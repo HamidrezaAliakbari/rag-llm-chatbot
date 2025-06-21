@@ -1,0 +1,18 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Env
+.env
+venv/
+
+# Editor
+.vscode/
+
+# macOS
+.DS_Store
