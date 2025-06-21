@@ -16,7 +16,7 @@ A Retrieval-Augmented Generation Q&A assistant (Week 1) built with LangChain + F
 - `.github/workflows/` – (optional) CI configs  
 - `requirements.txt` – pinned dependencies  
 
-## 🚀 Quick start
+
 
 ```bash
 # install deps
